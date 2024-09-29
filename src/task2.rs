@@ -12,7 +12,7 @@ fn print_char(c : char) {
 
 // Make it work
 fn main() {
-    let c1 = "中";
+    let c1  = '中'; //зміна кавичок для char
     print_char(c1);
 }
 
